@@ -10,6 +10,12 @@ body {
   min-height: 100vh;
 }
 
+h1,
+h2,
+h3 {
+  color: rgb(55, 53, 53);
+}
+
 h2 {
   margin: 1.25em 0 0;
 }
@@ -28,13 +34,14 @@ header {
   /* background-color: rgb(197, 202, 235); */
 }
 
-.logo h1,
+/* .logo h1,
 h3 {
-  /* color: rgb(24, 13, 228); */
-}
+  color: rgb(87, 82, 82);
+} */
 
 .Name {
   margin: 0;
+  color: rgb(52, 50, 50);
 }
 
 .definition {
