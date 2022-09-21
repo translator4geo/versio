@@ -174,7 +174,7 @@ section p {
 }
 
 .email {
-  height: 40px;
+  height: 60px;
 }
 
 .phone {
@@ -183,11 +183,11 @@ section p {
   justify-content: center;
   align-items: center;
   align-content: ;
-  height: 40px;
+  height: 60px;
   margin: 5px;
   margin-right: 0;
 }
 
 .phone-img {
-  height: 40px;
+  height: 60px;
 }
